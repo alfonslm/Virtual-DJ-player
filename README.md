@@ -25,13 +25,12 @@ A single-track player skin for [VirtualDJ](https://www.virtualdj.com/download/in
 
 ### 2. Install the skin
 
-1. Download **`SingleDeckPlayer.zip`** from the [latest release](https://github.com/alfonslm/Virtual-DJ-player/releases/latest) and unzip it. You get a folder called `SingleDeckPlayer`.
-2. Copy the whole `SingleDeckPlayer` folder into your VirtualDJ **Skins** folder:
+1. Download **`SingleDeckPlayer.zip`** from the [latest release](https://github.com/alfonslm/Virtual-DJ-player/releases/latest). **Do not unzip it.** VirtualDJ loads skins straight from a `.zip`.
+2. Put the zip in your VirtualDJ **Skins** folder:
    - **macOS:** `~/Library/Application Support/VirtualDJ/Skins`
      (Finder → Go → Go to Folder…, paste the path)
    - **Windows:** `Documents\VirtualDJ\Skins`
-     (VirtualDJ → Settings → Options → *Open folder* shortcuts can also take you there)
-3. Keep all files in the folder together. The skin needs the images (`icons.png`, `whiteicons.png`, previews) next to the XML files.
+3. Prefer a normal folder? Unzip it into a new folder inside `Skins` (for example `Skins/SingleDeckPlayer`) and keep all the files together. The skin needs the images (`icons.png`, `whiteicons.png`) next to the XML file.
 4. Start VirtualDJ, open **Settings → Interface → Skin**, pick **Blocks - Single Deck Player**, then choose the **Single Deck - Player** layout if asked. Restart VirtualDJ if the skin does not appear.
 
 More on skins: [VirtualDJ skins page](https://www.virtualdj.com/addons/skins.html) · [Interface settings manual](https://www.virtualdj.com/manuals/virtualdj/settings/interface.html)
