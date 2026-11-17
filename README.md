@@ -50,6 +50,6 @@ More on skins: [VirtualDJ skins page](https://www.virtualdj.com/addons/skins.htm
 - **Single Deck Player layout and modifications: alfonslm**, © 2026.
 - **VirtualDJ** is a product of Atomix Productions. This project is a fan-made skin and is not affiliated with or endorsed by Atomix or DJDaD.
 
-## Licence
+## Note
 
-The original Blocks skin remains the property of its author, DJDaD. Check the [Blocks page](https://www.virtualdj.com/forums/220605/addons/Blocks.html) for their terms before redistributing, and contact them if in doubt.
+This repository contains only the **Single Deck - Player** layout plus the image files it needs. The original Blocks layouts (2, 4 and 6 decks etc.) are not included. Get them from the [Blocks page](https://www.virtualdj.com/forums/220605/addons/Blocks.html) if you want them.
